@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418602551621",
+    "project_id": "qtss-d8380",
+    "storage_bucket": "qtss-d8380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418602551621:android:cda497d11679c1c8b4562c",
+        "android_client_info": {
+          "package_name": "com.curso.frasesdodia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418602551621-lok4pukm0ujlnkdiejskfni8u58k4tiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaRYi4btdTSSg1w5sKI5uzVKPwKQvvn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418602551621-lok4pukm0ujlnkdiejskfni8u58k4tiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
